@@ -14,7 +14,13 @@ Our project will be done using a sequence of save and commits and branch actions
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+<!--Put the first five lines of a poem by Lewis Carroll here!-->  
+“You are old, Father William,” the young man said,  
+“And your hair has become very white;  
+And yet you incessantly stand on your head –  
+Do you think, at your age, it is right?”  
+  
+“In my youth,” Father William replied to his son,  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
@@ -32,3 +38,11 @@ The billows smooth and bright--
 And this was odd, because it was  
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+I've hunted near, I've hunted far  
+I even looked inside my car.  
+I've lost my glasses, I'm in need,  
+To have them now so I can read.  
+I loudly swear and I curse  
+Did I leave them in my purse?  
+Are they behind the sofa, under the bed?  
+Oh there they are - on my head!  
